@@ -17,7 +17,7 @@
 # [START run_helloworld_shell]
 
 set -e
-echo "Hello ${NAME:-World}!"
+echo "Hello ${NAME:-World}! 2"
 
 # [END run_helloworld_shell]
 # [END cloudrun_helloworld_shell]
